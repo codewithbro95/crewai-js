@@ -8,6 +8,9 @@ I was working on a project that required leveraging large language models (LLMs)
 
 That’s why I began building **CrewAI-JS**—a framework where developers can easily work with AI agents, especially for projects that integrate LLMs, without needing to reinvent the wheel.
 
+## 🚨Note(Attention):
+I’ve stopped maintaining this repository because I don’t have enough time lately. If anyone is interested in taking over this repo, please reach out to me at [x.com/fotie_codes](https://x.com/fotie_codes)
+
 ## How Does It Work?
 
 CrewAI-JS replicates the core functionality of CrewAI but for JavaScript. It introduces:
